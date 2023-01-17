@@ -1,6 +1,8 @@
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
-## AIM:
+## DATE: 04/01/2023
+## NAME: GANES R
+## Ref No: 22009090
+## AIM: 
 To create a 3D model from given orthographic projection.
 
 ## REQUIREMENTS:
@@ -42,6 +44,7 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
+![![image](https://user-images.githubusercontent.com/120884552/212859930-3ec75921-7579-48d4-b34f-4c470b7da1d7.png)
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
